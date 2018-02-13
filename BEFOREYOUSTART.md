@@ -15,7 +15,7 @@ Mainly we need to settle all the GUI first.
 -Login Page [x]
 -Register Page [x]
 -Promotion Page []
--
+-History (purchase/feedback) []
 
 -Header []
   -User Drpdown [x]
